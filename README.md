@@ -1,4 +1,4 @@
- ## Data:
+## Data:
 #### The features can be found in the x_test.txt & y_test.txt file contain the activity level.
 subject_test.txt  & subject_train.txt file contain the test & training subject respectively.
 
